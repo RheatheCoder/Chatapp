@@ -7,7 +7,6 @@ html, body
 body
 {
 background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73aa, #006494);
-text-align: center;
 }
 
 .header
@@ -21,7 +20,7 @@ text-align: center;
 
 .login_div
 {
-	background: rgba(255,255,255,0.8);float: none;border-radius: 15px;
+	background: rgba(255,255,255,0.8);border-radius: 15px;
 }
 
 .logo
